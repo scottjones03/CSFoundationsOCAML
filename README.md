@@ -1,2 +1,2 @@
 # CSFoundationsOCAML
-Introduction tg
+Introduction to OCAML
