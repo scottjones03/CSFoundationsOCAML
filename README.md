@@ -1,2 +1,2 @@
 # CSFoundationsOCAML
-Introduction to OCAML
+Intro to OCAML
